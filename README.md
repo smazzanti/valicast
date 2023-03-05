@@ -1,0 +1,2 @@
+# valicast
+Validation for forecasts
