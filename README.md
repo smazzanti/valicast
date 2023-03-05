@@ -1,2 +1,2 @@
 # valicast
-Validation for forecasts
+**Vali**dation methods for fore**cast**s.
