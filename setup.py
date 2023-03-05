@@ -8,7 +8,7 @@ setup(
     author='Samuele Mazzanti',
     author_email='mazzanti.sam@gmail.com',
     license='MIT',
-    packages=['src'],
+    packages=['valicast'],
     install_requires=[
         'numpy>=1.18.1'
     ],
